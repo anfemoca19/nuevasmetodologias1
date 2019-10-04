@@ -4,6 +4,7 @@
   "description": "proyecto con express",
   "main": "server.js",
   "scripts": {
+    "start": "node server-express-html.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Andres",
